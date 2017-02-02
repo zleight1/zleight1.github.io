@@ -3,7 +3,7 @@ description: "Zachary Leighton LTD | "
 about: "Personal Site"
 location: "Netanya, Israel"
 email: zleight1@gmail.com
-baseurl: "/zleight1.github.io"
+baseurl: "/"
 
 url: "https://zleight1.github.io" # replace by your site's url
 github_username:  zleight1
